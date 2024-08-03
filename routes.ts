@@ -8,7 +8,6 @@ router
   .post("/register", async (ctx) => {
     const { email, username, password } = await ctx.request.body().value;
 
-    
     const existingUser = await client.query(
       "SELECT * FROM users WHERE email = ? OR username = ?",
       [email, username]
