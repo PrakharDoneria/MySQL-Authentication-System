@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "lib": ["deno.ns", "deno.window"]
+  },
+  "importMap": "./import_map.json",
+  "tasks": {
+    "start": "deno run --allow-net --allow-env --allow-read index.ts"
+  },
+  "lint": {
+    "files": {
+      "include": ["index.ts", "routes.ts", "config.ts"]
+    }
+  },
+  "fmt": {
+    "files": {
+      "include": ["index.ts", "routes.ts", "config.ts"]
+    }
+  }
+}

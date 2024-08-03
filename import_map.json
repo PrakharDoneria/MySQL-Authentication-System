@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "oak/": "https://deno.land/x/oak@v11.0.0/",
+    "bcrypt/": "https://deno.land/x/bcrypt@v0.2.4/",
+    "dotenv/": "https://deno.land/x/dotenv@v3.0.0/",
+    "mysql/": "https://deno.land/x/mysql@v2.10.0/"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "headers": {
+    "server": "deno/gcp-asia-south1",
+    "x-frame-options": "DENY",
+    "location": "/x/mysql@v2.12.1/mod.ts",
+    "x-deno-warning": "Implicitly using latest version (v2.12.1) for https://deno.land/x/mysql/mod.ts",
+    "access-control-allow-origin": "*",
+    "cross-origin-opener-policy": "same-origin",
+    "date": "Sat, 03 Aug 2024 13:31:29 GMT",
+    "via": "http/2 edgeproxy-h",
+    "cross-origin-embedder-policy": "same-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+    "vary": "accept",
+    "cross-origin-resource-policy": "same-origin",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-content-type-options": "nosniff"
+  },
+  "url": "https://deno.land/x/mysql/mod.ts",
+  "now": {
+    "secs_since_epoch": 1722691889,
+    "nanos_since_epoch": 702003900
+  }
+}

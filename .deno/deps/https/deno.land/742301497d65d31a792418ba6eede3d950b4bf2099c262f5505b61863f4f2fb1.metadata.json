@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "accept-ranges": "bytes",
+    "cache-control": "public, max-age=31536000, immutable",
+    "age": "27995158",
+    "etag": "\"77987c537ccf147d28b9c43b341aac0c\"",
+    "x-frame-options": "DENY",
+    "last-modified": "Wed, 13 Sep 2023 07:04:14 GMT",
+    "via": "http/2 edgeproxy-h",
+    "x-amz-cf-pop": "BOM78-P8",
+    "x-amz-replication-status": "COMPLETED",
+    "server-timing": "fetchSource;dur=16",
+    "vary": "Accept-Encoding, Origin",
+    "x-amz-version-id": "5.9cLYnVn010EjDBfuM064F41ahv4DbG",
+    "x-cache": "Hit from cloudfront",
+    "x-content-type-options": "nosniff",
+    "content-type": "application/typescript; charset=utf-8",
+    "cross-origin-resource-policy": "same-origin",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+    "cross-origin-embedder-policy": "same-origin",
+    "cross-origin-opener-policy": "same-origin",
+    "content-length": "1632",
+    "x-amz-server-side-encryption": "AES256",
+    "access-control-allow-origin": "*",
+    "date": "Thu, 14 Sep 2023 13:05:32 GMT",
+    "server": "deno/gcp-asia-south1",
+    "x-amz-cf-id": "mJ-IayUp9XULCUVqHpc7JOhhd5u1B63JS5gpTUYWaX9GlYpB5Ugymg=="
+  },
+  "url": "https://deno.land/x/mysql@v2.12.1/src/constant/mysql_types.ts",
+  "now": {
+    "secs_since_epoch": 1722691890,
+    "nanos_since_epoch": 20827702
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "headers": {
+    "via": "http/2 edgeproxy-h",
+    "server": "deno/gcp-asia-south1",
+    "x-content-type-options": "nosniff",
+    "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+    "cross-origin-embedder-policy": "same-origin",
+    "location": "/x/bcrypt@v0.4.1/mod.ts",
+    "cross-origin-resource-policy": "same-origin",
+    "vary": "accept",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "access-control-allow-origin": "*",
+    "x-deno-warning": "Implicitly using latest version (v0.4.1) for https://deno.land/x/bcrypt/mod.ts",
+    "cross-origin-opener-policy": "same-origin",
+    "x-frame-options": "DENY",
+    "date": "Sat, 03 Aug 2024 13:31:29 GMT"
+  },
+  "url": "https://deno.land/x/bcrypt/mod.ts",
+  "now": {
+    "secs_since_epoch": 1722691889,
+    "nanos_since_epoch": 657109973
+  }
+}
